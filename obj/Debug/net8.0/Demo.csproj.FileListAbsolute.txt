@@ -15,11 +15,6 @@ D:\.net\Demo\Demo\obj\Debug\net8.0\Demo.RazorAssemblyInfo.cache
 D:\.net\Demo\Demo\obj\Debug\net8.0\Demo.RazorAssemblyInfo.cs
 D:\.net\Demo\Demo\obj\Debug\net8.0\staticwebassets.build.json
 D:\.net\Demo\Demo\obj\Debug\net8.0\staticwebassets.development.json
-D:\.net\Demo\Demo\obj\Debug\net8.0\staticwebassets\msbuild.Demo.Microsoft.AspNetCore.StaticWebAssets.props
-D:\.net\Demo\Demo\obj\Debug\net8.0\staticwebassets\msbuild.build.Demo.props
-D:\.net\Demo\Demo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Demo.props
-D:\.net\Demo\Demo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Demo.props
-D:\.net\Demo\Demo\obj\Debug\net8.0\staticwebassets.pack.json
 D:\.net\Demo\Demo\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 D:\.net\Demo\Demo\obj\Debug\net8.0\scopedcss\bundle\Demo.styles.css
 D:\.net\Demo\Demo\obj\Debug\net8.0\scopedcss\projectbundle\Demo.bundle.scp.css
@@ -226,3 +221,7 @@ D:\.net\Demo\Demo\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common
 D:\.net\Demo\Demo\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 D:\.net\Demo\Demo\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 D:\.net\Demo\Demo\obj\Debug\net8.0\Demo.csproj.Up2Date
+D:\.net\Demo\Demo\bin\Debug\net8.0\Demo.staticwebassets.endpoints.json
+D:\.net\Demo\Demo\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\.net\Demo\Demo\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\.net\Demo\Demo\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

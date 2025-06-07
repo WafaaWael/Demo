@@ -1,0 +1,13 @@
+﻿<table class="table table-bordered">
+	@foreach (var item in Model)
+	{
+		<tr>
+			<td>@item.Name</td>
+			<td>@item.Address</td>
+			<td><img src="/Images/students/@item.Image"style="width:100px" /></td>
+				<td>
+					<a href="/Student/Details/@item.ID">studentDetails</a>
+				</td>
+		</tr>
+	}
+</table>
