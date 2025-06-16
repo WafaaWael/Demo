@@ -20,7 +20,7 @@ namespace Demo.Models
             //options
             optionsBuilder.UseSqlServer();
             // Configure the database connection string here
-            optionsBuilder.UseSqlServer("Server=localhost;Database=DemoDB;Trusted_Connection=True;");
+            optionsBuilder.UseSqlServer("Server=DESKTOP-FLGE9N9\\SQLEXPRESS;Database=master;Trusted_Connection=True;TrustServerCertificate=True;");
         }
     }
 }
